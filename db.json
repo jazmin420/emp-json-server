@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "username": "employee1",
+      "email": "employee1@example.com",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "user5",
+      "email": "jaz@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "username": "EMPLOYEE3",
+      "email": "EMP3@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "username": "jaz",
+      "email": "jaz@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "username": "izann",
+      "email": "izu@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
